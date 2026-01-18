@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ClipGoat",
+  "description": "The ultimate AI-powered streamer clipping and distribution engine. Auto-detect viral moments, generate vertical clips with captions, and post to all social platforms automatically.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
